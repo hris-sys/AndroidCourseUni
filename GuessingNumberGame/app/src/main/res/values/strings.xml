@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NumberGuessingGame</string>
+    <string name="app_name_title">NumberGuessingGame</string>
+    <string name="subtitles">Hello! This is a guessing game. Click the number that is bigger than the other number</string>
+</resources>
